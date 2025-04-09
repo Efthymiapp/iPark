@@ -5,6 +5,9 @@ iPark is a cutting-edge parking application designed to redefine urban mobility 
 ## Overview
 iPark offers an intuitive, secure, and comprehensive solution for managing parking needs. Built with modern UI/UX principles in mind, the app provides drivers with live updates on available parking spaces, integrated navigation, and seamless booking options—all in a single platform. By integrating alternative energy practices (such as solar-powered systems), iPark also strives to reduce environmental impact and promote sustainability.
 
+![image](https://github.com/user-attachments/assets/90c4a532-179e-4c79-8786-e1e49d738e2b)
+
+
 ## Key Features
 - Real-Time Parking Availability
   
