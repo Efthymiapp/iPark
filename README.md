@@ -48,4 +48,4 @@ Includes functionality such as:
 
 ## Figma Project
 The design of iPark is meticulously detailed in our Figma project, which includes high-fidelity UI prototypes, and interactive flows covering every aspect of the user journey—from initial download and login to booking, payment, and post-parking feedback. 
-
+https://www.figma.com/design/q9090Kg9BI2B5SksqItjCo/iPark?node-id=10-970&t=gA2X9v3a4hKdrZ3J-1
